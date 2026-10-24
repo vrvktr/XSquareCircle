@@ -18,4 +18,3 @@ npm run build
 Required class names are included:
 - `square`
 - `circle`
-# XSquareCircle
